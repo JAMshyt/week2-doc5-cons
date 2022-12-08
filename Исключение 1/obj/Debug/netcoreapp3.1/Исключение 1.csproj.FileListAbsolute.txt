@@ -1,0 +1,13 @@
+E:\Практика Кr\Щербаков\Исключения\Исключение 1\Исключение 1\bin\Debug\netcoreapp3.1\Исключение 1.exe
+E:\Практика Кr\Щербаков\Исключения\Исключение 1\Исключение 1\bin\Debug\netcoreapp3.1\Исключение 1.deps.json
+E:\Практика Кr\Щербаков\Исключения\Исключение 1\Исключение 1\bin\Debug\netcoreapp3.1\Исключение 1.runtimeconfig.json
+E:\Практика Кr\Щербаков\Исключения\Исключение 1\Исключение 1\bin\Debug\netcoreapp3.1\Исключение 1.runtimeconfig.dev.json
+E:\Практика Кr\Щербаков\Исключения\Исключение 1\Исключение 1\bin\Debug\netcoreapp3.1\Исключение 1.dll
+E:\Практика Кr\Щербаков\Исключения\Исключение 1\Исключение 1\bin\Debug\netcoreapp3.1\Исключение 1.pdb
+E:\Практика Кr\Щербаков\Исключения\Исключение 1\Исключение 1\obj\Debug\netcoreapp3.1\Исключение 1.csprojAssemblyReference.cache
+E:\Практика Кr\Щербаков\Исключения\Исключение 1\Исключение 1\obj\Debug\netcoreapp3.1\Исключение 1.AssemblyInfoInputs.cache
+E:\Практика Кr\Щербаков\Исключения\Исключение 1\Исключение 1\obj\Debug\netcoreapp3.1\Исключение 1.AssemblyInfo.cs
+E:\Практика Кr\Щербаков\Исключения\Исключение 1\Исключение 1\obj\Debug\netcoreapp3.1\Исключение 1.csproj.CoreCompileInputs.cache
+E:\Практика Кr\Щербаков\Исключения\Исключение 1\Исключение 1\obj\Debug\netcoreapp3.1\Исключение 1.dll
+E:\Практика Кr\Щербаков\Исключения\Исключение 1\Исключение 1\obj\Debug\netcoreapp3.1\Исключение 1.pdb
+E:\Практика Кr\Щербаков\Исключения\Исключение 1\Исключение 1\obj\Debug\netcoreapp3.1\Исключение 1.genruntimeconfig.cache

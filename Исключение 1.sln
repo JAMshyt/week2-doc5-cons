@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Исключение 1", "Исключение 1\Исключение 1.csproj", "{40CC5594-E55B-4797-9977-E5B8F22B5EFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40CC5594-E55B-4797-9977-E5B8F22B5EFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40CC5594-E55B-4797-9977-E5B8F22B5EFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40CC5594-E55B-4797-9977-E5B8F22B5EFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40CC5594-E55B-4797-9977-E5B8F22B5EFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {50F90B3A-3073-463D-A512-56DB4A720114}
+	EndGlobalSection
+EndGlobal
